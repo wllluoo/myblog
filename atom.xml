@@ -6,7 +6,7 @@
   <link href="/myblog/atom.xml" rel="self"/>
   
   <link href="https://wllluoo.github.io/myblog/"/>
-  <updated>2018-02-17T15:02:12.000Z</updated>
+  <updated>2018-02-25T03:05:51.000Z</updated>
   <id>https://wllluoo.github.io/myblog/</id>
   
   <author>
@@ -15,6 +15,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>js中的事件委托</title>
+    <link href="https://wllluoo.github.io/myblog/2018/02/24/%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98/"/>
+    <id>https://wllluoo.github.io/myblog/2018/02/24/事件委托/</id>
+    <published>2018-02-23T16:00:00.000Z</published>
+    <updated>2018-02-25T03:05:51.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="js" scheme="https://wllluoo.github.io/myblog/tags/js/"/>
+    
+  </entry>
   
   <entry>
     <title>特效：浏览器滚动时，文字滑入特效</title>

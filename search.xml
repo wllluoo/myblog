@@ -3,6 +3,20 @@
   
     
     <entry>
+      <title><![CDATA[js中的事件委托]]></title>
+      <url>/myblog/2018/02/24/%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98/</url>
+      <content type="html"></content>
+      
+        
+        <tags>
+            
+            <tag> js </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[特效：浏览器滚动时，文字滑入特效]]></title>
       <url>/myblog/2017/10/22/fade/</url>
       <content type="html"><![CDATA[<h2 id="1-首先要获取内容进入屏幕边缘的零界点"><a href="#1-首先要获取内容进入屏幕边缘的零界点" class="headerlink" title="1.首先要获取内容进入屏幕边缘的零界点"></a>1.首先要获取内容进入屏幕边缘的零界点</h2><p>  可以通过 滚轮移动端距离 + 浏览器窗口大小 &gt; 元素距离页面顶部的距离来进行判断。<br>  监听浏览器滚动事件：</p>
